@@ -1,0 +1,5 @@
+if game.Players.LocalPlayer.Name == "zzotac" then
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.zzotac.Character.HumanoidRootPart.CFrame
+else
+    print("not listed")
+end
