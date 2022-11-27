@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character
 local HumanoidRootPart = Character and Character:FindFirstChild("HumanoidRootPart")
-local Magi = 2000
+local Magi = 200
 local Target
 
    for i,v in ipairs(Players:GetPlayers()) do
