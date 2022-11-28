@@ -27,12 +27,12 @@ end
 
 targetname = v.Name 
 
-for i = 1,1 do
+for i = 1,10 do
 
 
 local tbl_main = 
 {
-      "slash", 
+      "punch", 
       1,  
       game:GetService("Workspace")[targetname].Humanoid, 
       game:GetService("Workspace")[targetname].HumanoidRootPart, 
