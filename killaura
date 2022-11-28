@@ -28,6 +28,7 @@ end
 targetname = v.Name 
 
 for i = 1,10 do
+wait(0.001)
 
 
 local tbl_main = 
